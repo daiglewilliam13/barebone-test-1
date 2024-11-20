@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: https://github.com/daiglewilliam13/barebone-test-1
+  repo: https://github.com/daiglewilliam13/barebone-test-1.git
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
@@ -17,4 +17,4 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-site_url: http://localhost:8080/admin
+site_url: https://endearing-buttercream-eaee14.netlify.app/
