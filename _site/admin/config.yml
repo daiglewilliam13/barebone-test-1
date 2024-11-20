@@ -17,6 +17,6 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "tags", name: "posts" }
+      - { label: "tags", name: "posts", widget: "markdown" }
 
 site_url: https://endearing-buttercream-eaee14.netlify.app/
