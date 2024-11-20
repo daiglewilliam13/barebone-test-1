@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: https://github.com/daiglewilliam13/barebone-test-1.git
   branch: main # Branch to update (optional; defaults to master)
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
