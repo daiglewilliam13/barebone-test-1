@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "name": "barebone-test-1",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
