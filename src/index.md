@@ -2,8 +2,8 @@
 title: Hello World
 layout: "base.njk"
 ---
-{% include 'components/navbar.md' %}
-<p>Hello Jamstack Family!</p>
+
+Hello Jamstack Family!
 
 {% for post in collections.posts %}
 

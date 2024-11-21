@@ -1,4 +1,23 @@
----
-title:
 
----
+{% 
+    set navlinks = [
+        {
+        label:"home",
+        url: "/"
+    },
+    {
+        label: "about",
+        url: "/about"
+    },
+    {
+        label: "contact",
+        url: "/contact"
+    }
+    ]
+
+%}
+    <ul>
+        {% for item in navlinks %}
+        <a href={{item.url}}><li>{{item.label}}</li></a>
+        {% endfor %}
+    </ul>
