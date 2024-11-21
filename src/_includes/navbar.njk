@@ -16,8 +16,10 @@
     ]
 
 %}
+<nav>
     <ul>
         {% for item in navlinks %}
         <a href={{item.url}}><li>{{item.label}}</li></a>
         {% endfor %}
     </ul>
+</nav>
