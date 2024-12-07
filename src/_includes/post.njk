@@ -7,7 +7,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>test three</title>
+        <title>{{title}}</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="../../style.css">
@@ -16,36 +16,17 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    
-
-<nav>
-    <ul>
-        
-        <a href=/><li>home</li></a>
-        
-        <a href=/about><li>about</li></a>
-        
-        <a href=/contact><li>contact</li></a>
-        
-        <a href=/blog><li>blog</li></a>
-        
-    </ul>
-</nav>
+    {% include 'navbar.njk' %}
     <header>
-        <h1>test three</h1>
+        <h1>{{title}}</h1>
     </header>
     <main>
-        <p>testttttt</p>
-
+        {{content | safe}}
         <div>
             <a href="/blog">Back to posts</a>
         </div>
     </main>
         <script src="" async defer></script>
     </body>
-    <footer>
-    <div>
-        <p>Copyright 2024<p>
-    </div>
-</footer>
+    {% include 'footer.njk' %}
 </html>

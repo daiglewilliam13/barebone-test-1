@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: post.njk
 title: another test
 date: 2024-11-21T14:13:00.000Z
 thumbnail: /images/uploads/ayumi-logo.png
