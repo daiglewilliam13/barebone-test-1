@@ -3,10 +3,7 @@ title: Hello World
 layout: "base.njk"
 ---
 
-Hello Jamstack Family!
+This is a test site
 
-{% for post in collections.posts %}
-
-- [{{post.data.title}}]({{post.url}})
-
-{% endfor %}
+![ayu](../static/images/uploads/ayumi-logo.png "ayumi")
+static/images/uploads/ayumi-logo.png
