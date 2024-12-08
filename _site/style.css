@@ -26,3 +26,15 @@ body, html {
 #topnav ul a {
     text-decoration: none;
 }
+/* blog page */
+
+img {
+    width: 100%;
+    max-width: 10rem;
+}
+/* post page */
+
+.post-image {
+    width: 100%;
+    max-width: 35rem;
+}
