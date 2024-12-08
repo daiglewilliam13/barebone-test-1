@@ -16,6 +16,6 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "tags", name: "tags", widget: "hidden", default: "posts"}
-      - { label: "baseUrl", name: "baseUrl", widget: "hidden", default: "https://github.com/daiglewilliam13/barebone-test-1/blob/main/"}
+      - { label: "baseUrl", name: "baseUrl", widget: "hidden", default: "https://github.com/daiglewilliam13/barebone-test-1/blob/main"}
 
 site_url: https://endearing-buttercream-eaee14.netlify.app/
