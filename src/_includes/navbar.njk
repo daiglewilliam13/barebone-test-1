@@ -23,7 +23,7 @@
 <nav id="topnav">
     <ul>
         {% for item in navlinks %}
-        <li><a href={{item.url}}>{{item.label}}</a></li>
+        <a href={{item.url}}><li>{{item.label}}</li></a>
         {% endfor %}
     </ul>
 </nav>
