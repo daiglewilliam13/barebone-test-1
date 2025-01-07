@@ -15,7 +15,6 @@ collections:
       - { label: "Affiliate Link", name: "affiliate", widget: "string" }
       - { label: "Affiliate Image", name: "affImage", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "tags", name: "tags", widget: "hidden", default: "posts"}
       - { label: "baseUrl", name: "baseUrl", widget: "hidden", default: "https://raw.githubusercontent.com/daiglewilliam13/barebone-test-1/refs/heads/main"}
