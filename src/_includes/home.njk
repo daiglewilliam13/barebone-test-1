@@ -23,6 +23,17 @@
     </header>
     <main>
         {{content | safe}}
+        <h2>Recent ramblings</h2>
+        <ul>
+            {% for post in collections.posts %}
+
+            <a href="{{post.url}}">
+            <li>{{post.data.title}}</li>
+            <img width="300px" src="{{post.data.baseURL}}{{post.data.thumbnail}}" alt="">
+            </a>
+
+            {% endfor%}
+        </ul>
     </main>
     </div>
         <script src="" async defer></script>

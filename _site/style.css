@@ -27,6 +27,21 @@ ul {
     margin: 0;
 }
 
+/* header */
+
+header {
+    background-image: url("https://raw.githubusercontent.com/daiglewilliam13/barebone-test-1/refs/heads/main/static/images/uploads/hero-bg.webp");
+    background-position: center;
+    background-size: cover;
+    min-height: 20rem;
+}
+
+header h1 {
+    color: #f7f3e3;
+    font-size: 4rem;
+    text-shadow: 5px 5px 10px #2b2118;
+    padding-top: 2rem;
+}
 
 /* navbar */
 
