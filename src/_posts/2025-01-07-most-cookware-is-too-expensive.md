@@ -3,6 +3,7 @@ layout: post.njk
 title: Most Cookware is too expensive
 affiliate: https://amzn.to/3PvHq1K
 affImage: https://m.media-amazon.com/images/I/61OEkktOdmL._AC_SX569_.jpg
+affTitle: Cuisinart 722-20 8-Inch Chef's-Classic-Stainless-Cookware-Collection, 8", Open Skillet 
 date: 2025-01-07T15:18:00.000Z
 thumbnail: https://m.media-amazon.com/images/I/61OEkktOdmL._AC_SX569_.jpg
 tags: posts

@@ -13,6 +13,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post.njk" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Affiliate Link", name: "affiliate", widget: "string" }
+      - { label: "Affiliate Title", name: "affTitle", widget: "string" }
       - { label: "Affiliate Image", name: "affImage", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
