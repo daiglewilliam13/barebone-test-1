@@ -1,0 +1,17 @@
+---
+layout: post.njk
+title: Most restaurants are ripping you off
+affiliate: https://amzn.to/40ngR57
+affImage: https://m.media-amazon.com/images/I/61x9NkiKkUS._AC_SX679_.jpg
+affTitle: Zojirushi NS-ZCC10 5-1/2-Cup Neuro Fuzzy Rice Cooker 
+date: 2025-01-08T19:57:35.742Z
+thumbnail: https://m.media-amazon.com/images/I/61x9NkiKkUS._AC_SX679_.jpg
+tags: posts
+baseUrl: https://raw.githubusercontent.com/daiglewilliam13/barebone-test-1/refs/heads/main
+---
+
+The age-old conundrum: when to eat out and when to cook at home. For many of us, the temptation to dine out can be overwhelming, especially on busy weeknights or special occasions. However, let's face it - eating out is no longer a cheap way to satisfy our cravings. The average meal out can cost anywhere from $10 to $30 per person, with some upscale restaurants pushing the price tag even higher. When you add up the costs of dining out every day for lunch and dinner, it adds up quickly - think $500 to $1,000 per month for just a few meals out.
+
+But here's the thing: cooking at home doesn't have to be expensive either. In fact, with the right tools and ingredients, you can save money while still enjoying delicious and satisfying meals. That's where a rice cooker comes in. A simple investment of $50 to $100 can pay for itself many times over by saving you from the monthly habit of eating out. And let's be real - rice is not just a side dish, it's a staple that pairs perfectly with marinated meats, stir-fries, curries, and so much more. With a rice cooker, you can make a big batch of rice that lasts all week, and then use it as the base for countless meals.
+
+By ditching the expensive habit of eating out and cooking at home instead, you can save a significant amount of money every month. In fact, if we assume an average cost of $20 per meal out, and 7 days of dining out per week, that's just $140 per week. Multiply that by 52 weeks in a year, and that comes out to a whopping $7,280 per year - or approximately $1 million every 14 years. By investing in a rice cooker and starting to cook at home regularly, you can save yourself a small fortune while still enjoying delicious and satisfying meals. So why not make the switch and start cooking up some savings today?
