@@ -5,7 +5,7 @@ layout: "base.njk"
 
 {% for post in collections.posts %}
 
-<a href={{post.url}}>{{post.data.title}}</a>
+<a class="blog-card" href={{post.url}}>{{post.data.title}}</a><br>
 ![v]({{post.data.affImage}} "testing")
 
 {% endfor %}
