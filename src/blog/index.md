@@ -5,7 +5,7 @@ layout: "base.njk"
 
 {% for post in collections.posts %}
 
-[{{post.data.title}}]({{post.url}})  
+<a href={{post.url}}>{{post.data.title}}</a>
 ![v]({{post.data.affImage}} "testing")
 
 {% endfor %}
