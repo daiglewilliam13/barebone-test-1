@@ -1,11 +1,11 @@
 ---
 layout: post.njk
+thumbnail: https://m.media-amazon.com/images/I/61x9NkiKkUS._AC_SX679_.jpg
 title: Most restaurants are ripping you off
 affiliate: https://amzn.to/40ngR57
+affTitle: Zojirushi NS-ZCC10 5-1/2-Cup Neuro Fuzzy Rice Cooker
 affImage: https://m.media-amazon.com/images/I/61x9NkiKkUS._AC_SX679_.jpg
-affTitle: Most restaurants are ripping you off 
 date: 2025-01-08T19:11:07.520Z
-thumbnail: https://m.media-amazon.com/images/I/61x9NkiKkUS._AC_SX679_.jpg
 tags: posts
 baseUrl: https://raw.githubusercontent.com/daiglewilliam13/barebone-test-1/refs/heads/main
 ---
