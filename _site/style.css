@@ -20,7 +20,8 @@ body, html {
 
 
 p, h1, h2, h3 {
-    margin: 0;
+    margin: 0 auto;
+    max-width: 1500px;
 }
 
 ul {
@@ -45,6 +46,27 @@ header h1 {
     text-shadow: 5px 5px 10px #2b2118;
     padding-top: 2rem;
 }
+
+
+/* bloglist  */
+
+.blog-list {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+}
+
+
+
+.post-link {
+    text-decoration: none;
+    color: #6f1a07;
+}
+
+.post-link:visited {
+    color:#6f1a07
+}
+
 
 /* navbar */
 
